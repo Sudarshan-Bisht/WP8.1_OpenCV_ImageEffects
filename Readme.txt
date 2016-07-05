@@ -1,0 +1,1 @@
+In order to build OpenCV library for Windows Phone, follow instructions from https://msopentech.com/blog/2014/08/20/opencv-support-for-windows-universal-apps-now-available-on-github/#
